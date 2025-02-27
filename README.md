@@ -1,6 +1,6 @@
 # DSL-Age-Estimation
 
-A Machine Learning project for the **_Data Science Lab: process and methods_** class, **Age Estimation** using both **tabular** and **raw audio** features. Developed in collaboration with my colleague [Daniele Famà](https://github.com/danielefam), this repository demonstrates the end-to-end process of data loading, feature extraction, preprocessing, and model training with advanced AI regression techniques.
+A Machine Learning project for the **_Data Science Lab: process and methods_** class, **Age Estimation** using both **tabular** and **raw audio** features. Developed in collaboration with my colleague [Andrea Lolli](https://github.com/AndreaLolli2912), this repository demonstrates the end-to-end process of data loading, feature extraction, preprocessing, and model training with advanced AI regression techniques.
 
 ---
 
@@ -77,7 +77,7 @@ DSL-Age-Estimation
 
 ## Credits
 
-- Developed by [@AndreaLolli2912](https://github.com/AndreaLolli2912) in collaboration with [@danielefam](https://github.com/danielefam).  
+- Developed by [@AndreaLolli2912](https://github.com/AndreaLolli2912) and [@danielefam](https://github.com/danielefam).  
 - For full technical details, please refer to our [report](./Fama_Lolli_Age_Regression.pdf).
 
 Feel free to open issues or submit pull requests for improvements.
