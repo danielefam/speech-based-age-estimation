@@ -1,0 +1,9 @@
+data/
+.vscode/
+__pycache__/
+.venv
+.env
+submissions/
+catboost_info/
+figs/
+cross_validate/
